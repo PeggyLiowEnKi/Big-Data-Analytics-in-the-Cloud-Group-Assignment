@@ -4,7 +4,7 @@ BigDataAssignment
 **Data source link**
 https://www.kaggle.com/datasets/jamesmuema/retail-sales 
 
-# Method 1: Jave MapReduce Workflow
+# Method 1: Java MapReduce Workflow
 1. Write Java files:
 FinancialMapper.java
 FinancialReducer.java
