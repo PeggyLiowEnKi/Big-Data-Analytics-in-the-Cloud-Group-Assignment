@@ -1,5 +1,6 @@
 # BigDataAssignment
 BigDataAssignment
+Group Members: Isabelle Yau Li Shuang, Leow Yan Yi, Peggy Liow En Ki
 
 **Data source link**
 https://www.kaggle.com/datasets/jamesmuema/retail-sales 
