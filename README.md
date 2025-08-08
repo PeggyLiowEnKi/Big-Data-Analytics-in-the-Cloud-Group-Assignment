@@ -7,9 +7,9 @@ https://www.kaggle.com/datasets/jamesmuema/retail-sales
 
 # Method 1: Java MapReduce Workflow
 1. Write Java files:
-FinancialMapper.java
+**FinancialMapper.java
 FinancialReducer.java
-FinancialDriver.java
+FinancialDriver.java**
 2. Ensure all import statements are correct
 3. Compile Java files using Hadoop classpath:
 mkdir bin
@@ -30,7 +30,7 @@ s3://testinggroupassignment/output/
 10. Download part-r-00000 and others to view results.
 
 # Method 2: Python MapReduce Workflow
-1. Prepare dataset, PythonMapper.py, and PythonReducer.py (make sure scripts are saved in LF format)
+1. Prepare dataset, **PythonMapper.py, and PythonReducer.py** (make sure scripts are saved in LF format)
 2. Create Amazon S3 Bucket
 3. Upload the three documents into the created S3 bucket
 4. Launch EMR cluster
