@@ -37,8 +37,9 @@ s3://testinggroupassignment/output/
 5. Add Step at EMR Cluster and assign paths
 6. Go to S3 bucket, output path
 7. MapReduce files will be found at the output path (part-00000, part-00001, etc.)
-
+8. Save results for analysis
+   
 # Visualization Diagrams (File names)
 Java Result 4.1.1 to 4.1.5
 Python Result 4.2.1 to 4.2.3
-9. Save results for analysis
+
