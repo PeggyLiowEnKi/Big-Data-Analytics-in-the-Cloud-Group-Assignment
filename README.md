@@ -1,5 +1,5 @@
-# BigDataAssignment
-BigDataAssignment
+# Big Data Analytics in the Cloud Group Assignment
+
 Group Members: Isabelle Yau Li Shuang, Leow Yan Yi, Peggy Liow En Ki
 
 **Data source link**
